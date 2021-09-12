@@ -7,7 +7,6 @@ public class WeekOneExercises {
 
     static Scanner scanner;
 
-
     public final static void main(String args[]) {
         Boolean didOswaldActAlone = didOswaldActAlone(true);
         if (didOswaldActAlone) {
